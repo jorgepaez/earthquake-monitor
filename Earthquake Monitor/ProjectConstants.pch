@@ -1,0 +1,11 @@
+//
+//  ProjectConstants.pch
+//  Earthquake Monitor
+//
+//  Created by Jorge Paez on 4/29/15.
+//  Copyright (c) 2015 Jorge Paez. All rights reserved.
+//
+
+#define MAPS_API_KEY @"AIzaSyBROvjjsSNLQKB5on2-QRK6DV-mF5xeBnI"
+#define USGS_URL @"http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson"
+#define CACHE_FILENAME @"cache.dat"
